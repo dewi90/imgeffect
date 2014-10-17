@@ -12,9 +12,6 @@ imgeffect jQuery plugin for image effect. currently support 10 effects
     <li>Blur</li>
 </ul>
 
-<h3>Demo</h3>
-<a href="http://dev.mangdariel.web.id/imgeffect/example/example.html">here</a> you go
-
 <h3>usage</h3>
 <pre>
     &lt;img src="anything.jpg|png|gif|bmp" id="the_id" alt=""&gt;
